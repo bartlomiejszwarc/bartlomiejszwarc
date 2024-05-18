@@ -10,7 +10,7 @@
 
 ###
 
-<h4 align="left">🔭 I’m currently working on personal projects to build and expand my portfolio<br>📚 Right now I'm learning Next.js and becoming proficient in React and Angular<br>🎯 My goal is to become a software developer <br> 📖 My resume https://github.com/bartlomiejszwarc/bartlomiejszwarc/files/15362567/CV_Bartlomiej_Szwarc.pdf
+<h4 align="left">🔭 I’m currently working on personal projects to build and expand my portfolio<br><br>📚 Right now I'm learning Next.js and becoming proficient in React and Angular<br><br>🎯 My goal is to become a software developer <br><br> 📖 My resume https://github.com/bartlomiejszwarc/bartlomiejszwarc/files/15362567/CV_Bartlomiej_Szwarc.pdf
 </h4>
 
 ###
@@ -86,6 +86,6 @@
 ###
 
 <h2 align="left">📧 Contact me</h3>
-<h4 align="left"> - E-mail: <a href="mailto:szwarc.it@gmail.com">szwarc.it@gmail.com</a> <br>
+<h4 align="left"> - E-mail: <a href="mailto:szwarc.it@gmail.com">szwarc.it@gmail.com</a> <br><br>
    - LinkedIn profile: <a href="https://www.linkedin.com/in/bart%C5%82omiej-szwarc-72940a252/">https://www.linkedin.com/in/bart%C5%82omiej-szwarc-72940a252/</a>
 </h4>
