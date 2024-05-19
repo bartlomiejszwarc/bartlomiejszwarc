@@ -1,6 +1,6 @@
 <h1 align="left">Hey 👋 I'm Bartek</h1>
 
-###
+![giphy](https://github.com/bartlomiejszwarc/bartlomiejszwarc/assets/86133933/d7c25065-247e-460d-bf69-d13066c391ab)
 
 <h2 align="left">About me</h2>
 
@@ -48,7 +48,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/512px-Tailwind_CSS_Logo.svg.png?20230715030042" height="40" alt="tailwindcss logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
 </div>
@@ -81,11 +81,20 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" height="40" alt="gimp logo"  />
+  
 </div>
 
 ###
 
 <h2 align="left">📧 Contact me</h3>
-<h4 align="left"> - E-mail: <a href="mailto:szwarc.it@gmail.com">szwarc.it@gmail.com</a> <br><br>
-   - LinkedIn profile: <a href="https://www.linkedin.com/in/bart%C5%82omiej-szwarc-72940a252/">https://www.linkedin.com/in/bart%C5%82omiej-szwarc-72940a252/</a>
+<h4 align="left"> 
+  <div style="display: flex; align-items: center;">
+  📧 <a href="mailto:szwarc.it@gmail.com">szwarc.it@gmail.com</a> 
+  </div>
+    <br><br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="17" alt="linkedin logo"  /> <a href="https://www.linkedin.com/in/bart%C5%82omiej-szwarc-72940a252/">https://www.linkedin.com/in/bart%C5%82omiej-szwarc-72940a252/</a>
 </h4>
